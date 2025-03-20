@@ -1,0 +1,142 @@
+[
+	{
+		"_id": "AVG",
+		"name": "Average Joe Randoms",
+		"active": false
+	},
+	{
+		"_id": "BAG",
+		"name": "Baggage",
+		"active": true 
+	},
+	{
+		"_id": "BBB",
+		"name": "Blue Belly Babies",
+		"active": false 
+	},
+	{
+		"_id": "BRK",
+		"name": "Breakdowns",
+		"active": true 
+	},
+	{
+		"_id": "BSB",
+		"name": "Broad Street Bullies",
+		"active": false
+	},
+	{
+		"_id": "CAR",
+		"name": "Del Caribe",
+		"active": true
+	},
+	{
+		"_id": "COM",
+		"name": "Como Captains",
+		"active": false
+	},
+	{
+		"_id": "FRZ",
+		"name": "Freezers",
+		"active": true
+	},
+	{
+		"_id": "GDF",
+		"name": "Goodfellas",
+		"active": false 
+	},
+	{
+		"_id": "H2B",
+		"name": "Happy 2 Be Here",
+		"active": false
+	},
+	{
+		"_id": "HKL",
+		"name": "Hookline Sinkers",
+		"active": true 
+	},
+	{
+		"_id": "ICE",
+		"name": "We Got Ice",
+		"active": true
+	},
+	{
+		"_id": "JMO",
+		"name": "JM Office",
+		"active": false
+	},
+	{
+		"_id": "JUG",
+		"name": "Water Jug",
+		"active": false
+	},
+	{
+		"_id": "LOV",
+		"name": "Love Yas",
+		"active": true
+	},
+	{
+		"_id": "MAC",
+		"name": "MacFlurry Power",
+		"active": true
+	},
+	{
+		"_id": "MLW",
+		"name": "MLW Snakes",
+		"active": false
+	},
+	{
+		"_id": "PIN",
+		"name": "Pinstripe Strong",
+		"active": false
+	},
+	{
+		"_id": "RIP",
+		"name": "Rippers",
+		"active": true
+	},
+	{
+		"_id": "RIV",
+		"name": "Rivalry",
+		"active": false
+	},
+	{
+		"_id": "ROT",
+		"name": "Forgotten Rotton",
+		"active": true
+	},
+	{
+		"_id": "SBB",
+		"name": "Scribble Baby Boys",
+		"active": false
+	},
+	{
+		"_id": "SHS",
+		"name": "Shea Station",
+		"active": false
+	},
+	{
+		"_id": "SPL",
+		"name": "Splat Elite",
+		"active": false
+	},
+	{
+		"_id": "STO",
+		"name": "Story",
+		"active": true
+	},
+	{
+		"_id": "STH",
+		"name": "Southpaws",
+		"active": false
+	},
+	{
+		"_id": "WRM",
+		"name": "Worm Burners",
+		"active": false
+	},
+	{
+		"_id": "WOO",
+		"name": "Woogas",
+		"active": true
+	}
+]
