@@ -1,7 +1,7 @@
 <img src="images/banner.svg"/>
 
-A dataset containing statistics from Jomboy Media's 
-[Warehouse Games](https://www.youtube.com/@warehouseggames).
+<span align="center">A dataset container statistics from Jomboy Media's 
+<a href="https://www.youtube.com/@warehousegames">Warehouse Games</a>.</span>
 
 ## About
 
