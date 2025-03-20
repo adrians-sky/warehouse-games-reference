@@ -1,9 +1,13 @@
-<img src="images/banner.svg"/>
+<div align="center">
+  <img src="images/banner.svg"/>
+  <p>
+    A dataset containing statistics from Jomboy Media's 
+    <a href="https://www.youtube.com/@warehousegames">Warehouse Games</a>.
+  </p>
+  <img src="https://img.shields.io/badge/author-adrians--sky-blue"/>
+</div>
 
-<span align="center">A dataset container statistics from Jomboy Media's 
-<a href="https://www.youtube.com/@warehousegames">Warehouse Games</a>.</span>
-
-## About
+# About
 
 Over the past year I've become a big Jomboy Media fan. I especially enjoy 
 the warehouse games, and I thought about creating a dataset to track 
@@ -14,7 +18,7 @@ This would ~~eventually~~ include all of the main Franchise Leagues
 Captain's League, the Challenger Series, the 1 Inning League and 
 1 Inning League Roulette (my personal favourite!)
 
-## Credit
+# Credit
 
 All credits go to the [Jomboy Media](https://www.youtube.com/@jomboymedia) 
 and [Warehouse Games](https://www.youtube.com/@warehousegames) YouTube 
