@@ -1,10 +1,13 @@
 <div align="center">
   <img src="images/banner.svg"/>
-  <p>
-    A dataset containing statistics from Jomboy Media's 
+  <img src="https://img.shields.io/badge/author-adrians--sky-blue"/>
+  <img src="https://img.shields.io/github/last-commit/adrians-sky/warehouse-games-reference"/>
+  <img src="https://img.shields.io/github/license/adrians-sky/warehouse-games-reference"/>
+  <img src="https://img.shields.io/github/languages/code-size/adrians-sky/warehouse-games-reference"/>
+  <p><br/>
+     A dataset containing statistics from Jomboy Media's 
     <a href="https://www.youtube.com/@warehousegames">Warehouse Games</a>.
   </p>
-  <img src="https://img.shields.io/badge/author-adrians--sky-blue"/>
 </div>
 
 # About
