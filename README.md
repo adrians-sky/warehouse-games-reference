@@ -2,7 +2,7 @@
   <img src="images/banner.svg"/>
   <a href="https://github.com/adrians-sky"><img src="https://img.shields.io/badge/author-adrians--sky-blue"/></a>
   <a href="https://github.com/adrians-sky/warehouse-games-reference/commits/main/"><img src="https://img.shields.io/github/last-commit/adrians-sky/warehouse-games-reference"/></a>
-  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/adrians-sky/warehouse-games-reference"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/adrians-sky/warehouse-games-reference"/></a>
   <a href="#"><img src="https://img.shields.io/github/languages/code-size/adrians-sky/warehouse-games-reference"/></a>
   <p><br/>
      A dataset containing statistics from Jomboy Media's 
