@@ -1,0 +1,50 @@
+[
+	{
+		"_id": "BAG_BB05",
+		"franchise": "BAG",
+		"season": "BB05",
+		"players": [ "obrienj", "storialej" ]
+	},
+	{
+		"_id": "CAR_BB05",
+		"franchise": "CAR",
+		"season": "BB05",
+		"players": [ "dabl", "solanoj" ]
+	},
+	{
+		"_id": "HKL_BB05",
+		"franchise": "HKL",
+		"season": "BB05",
+		"players": [ "canobbiod", "davisd" ]
+	},
+	{
+		"_id": "ICE_BB05",
+		"franchise": "ICE",
+		"season": "BB05",
+		"players": [ "demalial", "doylej" ]
+	},
+	{
+		"_id": "LOV_BB05",
+		"franchise": "LOV",
+		"season": "BB05",
+		"players": [ "cassanon", "feelyd" ]
+	},
+	{
+		"_id": "MAC_BB05",
+		"franchise": "MAC",
+		"season": "BB05",
+		"players": [ "kollins", "macdonaldk" ]
+	},
+	{
+		"_id": "ROT_BB05",
+		"franchise": "ROT",
+		"season": "BB05",
+		"players": [ "plouffet", "robinsond" ]
+	},
+	{
+		"_id": "WOO_BB05",
+		"franchise": "WOO",
+		"season": "BB05",
+		"players": [ "knorpj", "rourked" ]
+	}
+]
