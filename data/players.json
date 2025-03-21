@@ -1,0 +1,146 @@
+[
+	{
+		"_id": "cassanon",
+		"last_name": "Cassano",
+		"first_name": "Nick",
+		"full_name": "Nick Cassano",
+		"name": "Nicky Cass",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "canobbiod",
+		"last_name": "Cannobio",
+		"first_name": "Dan",
+		"full_name": "Dan Canobbio",
+		"name": "Dan Canobbio",
+		"bats": "L",
+		"throws": "L"
+	},
+	{
+		"_id": "dabl",
+		"last_name": "Dab",
+		"first_name": "Lou",
+		"full_name": "Lou Dab",
+		"name": "Lou Dab",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "davisd",
+		"last_name": "Davis",
+		"first_name": "Drew",
+		"full_name": "Drew Davis",
+		"name": "Drew Davis",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "demalial",
+		"last_name": "DeMalia",
+		"first_name": "Lorenzo",
+		"full_name": "Lorenzo DeMalia",
+		"name": "Zo DeMalia",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "doylej",
+		"last_name": "Doyle",
+		"first_name": "Jack",
+		"full_name": "Jack Doyle",
+		"name": "Jack Doyle",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "feelyd",
+		"last_name": "Feely",
+		"first_name": "Dalton",
+		"full_name": "Dalton Feely",
+		"name": "Dalton Feely",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "knorpj",
+		"last_name": "Knorp",
+		"first_name": "Jimmy",
+		"full_name": "Jimmy Knorp",
+		"name": "Jimmy Knorp",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "kollins",
+		"last_name": "Stone",
+		"first_name": "Kollin",
+		"full_name": "Kollin Stone",
+		"name": "Kollin Stone",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "macdonaldk",
+		"last_name": "MacDonald",
+		"first_name": "Kyle",
+		"full_name": "Kyle MacDonald",
+		"name": "Kyle MacDonald",
+		"bats": "L",
+		"throws": "R"
+	},
+	{
+		"_id": "obrienj",
+		"last_name": "O'Brien",
+		"first_name": "James",
+		"full_name": "James Michael O'Brien",
+		"name": "Jimmy O'Brien",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "plouffet",
+		"last_name": "Plouffe",
+		"first_name": "Trevor",
+		"full_name": "Trevor Plouffe",
+		"name": "Trevor Plouffe",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "robinsond",
+		"last_name": "Robinson",
+		"first_name": "Dan",
+		"full_name": "Dan Robinson",
+		"name": "Shelfy",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "rourked",
+		"last_name": "Rourke",
+		"first_name": "Dan",
+		"full_name": "Dan Alan Rourke",
+		"name": "Dan Rourke",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "solanoj",
+		"last_name": "Solano",
+		"first_name": "Joseph",
+		"full_name": "Joseph Solano",
+		"name": "Joez McFly",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "storialej",
+		"last_name": "Storiale",
+		"first_name": "Jake",
+		"full_name": "Jake Storiale",
+		"name": "Jake Storiale",
+		"bats": "R",
+		"throws": "R"
+	}
+]
