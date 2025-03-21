@@ -1,0 +1,156 @@
+[
+	{
+		"_id": "BB01",
+		"season_name": "Blitzball Battle 1",
+		"year": 2022,
+		"start_date": "2022-02-14",
+		"end_date": "2022-03-31"
+	},
+	{
+		"_id": "1INN",
+		"season_name": "1-Inning League",
+		"year": 2022,
+		"start_date": "2022-04-14",
+		"end_date": "2022-04-21"
+	},
+	{
+		"_id": "FB01",
+		"season_name": "Floorball 1",
+		"year": 2022,
+		"start_date": "2022-07-25",
+		"end_date": "2022-08-29"
+	},
+	{
+		"_id": "BIPT",
+		"season_name": "Ball In Player Tester League",
+		"year": 2022,
+		"start_date": "2022-09-26",
+		"end_date": "2022-09-30"
+	},
+	{
+		"_id": "BB02",
+		"season_name": "Blitzball Battle 2",
+		"year": 2022,
+		"start_date": "2022-10-31",
+		"end_date": "2022-12-13"
+	},
+	{
+		"_id": "1INR",
+		"season_name": "1-Inning League Roulette",
+		"year": 2023,
+		"start_date": "2023-02-06",
+		"end_date": "2023-02-23"
+	},
+	{
+		"_id": "BB03",
+		"season_name": "Blitzball Battle 3",
+		"year": 2023,
+		"start_date": "2023-04-30",
+		"end_date": "2023-06-04"
+	},
+	{
+		"_id": "BIP1",
+		"season_name": "Ball in Play 1",
+		"year": 2023,
+		"start_date": "2023-06-25",
+		"end_date": "2023-07-23"
+	},
+	{
+		"_id": "BBBL",
+		"season_name": "Blitzball Blitz",
+		"year": 2023,
+		"start_date": "2023-09-07",
+		"end_date": "2023-10-02"
+	},
+	{
+		"_id": "FB02",
+		"season_name": "Floorball 2",
+		"year": 2023,
+		"start_date": "2023-09-07",
+		"end_date": "2023-10-02"
+	},
+	{
+		"_id": "BIPC1",
+		"season_name": "Captains' League: Ball in Play",
+		"year": 2024,
+		"start_date": "2024-01-22",
+		"end_date": "2024-02-01"
+	},
+	{
+		"_id": "BB04",
+		"season_name": "Blitzball Battle 4",
+		"year": 2024,
+		"start_date": "2024-02-18",
+		"end_date": "2024-03-21"
+	},
+	{
+		"_id": "SBC1",
+		"season_name": "Captains' League: Slapball",
+		"year": 2024,
+		"start_date": "2024-04-04",
+		"end_date": "2024-04-25"
+	},
+	{
+		"_id": "BIP2",
+		"season_name": "Ball In Play 2",
+		"year": 2024,
+		"start_date": "2024-02-18",
+		"end_date": "2024-03-31"
+	},
+	{
+		"_id": "BBC1",
+		"season_name": "Captains' League: Blitzball",
+		"year": 2024,
+		"start_date": "2024-06-18",
+		"end_date": "2024-07-09"
+	},
+	{
+		"_id": "FBC1",
+		"season_name": "Captains' League: Floorball",
+		"year": 2024,
+		"start_date": "2024-07-16",
+		"end_date": "2024-08-06"
+	},
+	{
+		"_id": "BSB5",
+		"season_name": "Baseball 5",
+		"year": 2024,
+		"start_date": "2024-08-25",
+		"end_date": "2024-08-28"
+	},
+	{
+		"_id": "FB03",
+		"season_name": "Floorball 3",
+		"year": 2024,
+		"start_date": "2024-09-08",
+		"end_date": "2024-10-10"
+	},
+	{
+		"_id": "BB05",
+		"season_name": "Blitzball Battle 5",
+		"year": 2024,
+		"start_date": "2024-11-04",
+		"end_date": "2024-12-15"
+	},
+	{
+		"_id": "CHBR",
+		"season_name": "Blitzball Holiday Battle Royale",
+		"year": 2024,
+		"start_date": "2024-12-27",
+		"end_date": "2024-12-30"
+	},
+	{
+		"_id": "SBC2",
+		"season_name": "Captains' League 2: Slapball",
+		"year": 2025,
+		"start_date": "2025-01-26",
+		"end_date": "2025-02-16"
+	},
+	{
+		"_id": "BIPC2",
+		"season_name": "Captain's League 2: Ball In Play",
+		"year": 2025,
+		"start_date": "2025-03-02",
+		"end_date": "2025-03-20"
+	}
+]
