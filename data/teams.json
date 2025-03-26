@@ -9,7 +9,24 @@
 		"_id": "BRK_BIPC2",
 		"franchise": "BRK",
 		"season": "BIPC2",
-		"players": []
+		"players": [
+			{
+				"id": "obrienj",
+				"pick": "Captain"
+			},
+			{
+				"id": "obrienl",
+				"pick": "1.2"
+			},
+			{
+				"id": "cohenr",
+				"pick": "1.3"
+			},
+			{
+				"id": "daversal",
+				"pick": "3.2"
+			}
+		]
 	},
 	{
 		"_id": "CAR_BB05",
@@ -21,7 +38,24 @@
 		"_id": "FRZ_BIPC2",
 		"franchise": "FRZ",
 		"season": "BIPC2",
-		"players": []
+		"players": [
+			{
+				"id": "robinsond",
+				"pick": "Captain"
+			},
+			{
+				"id": "feelyd",
+				"pick": "1.1"
+			},
+			{
+				"id": "dabl",
+				"pick": "2.3"
+			},
+			{
+				"id": "rourked",
+				"pick": "3.1"
+			}
+		]
 	},
 	{
 		"_id": "HKL_BB05",
@@ -51,7 +85,24 @@
 		"_id": "RIP_BIPC2",
 		"franchise": "RIP",
 		"season": "BIPC2",
-		"players": []
+		"players": [
+			{
+				"id": "doylej",
+				"pick": "Captain"
+			},
+			{
+				"id": "sciroccor",
+				"pick": "2.4"
+			},
+			{
+				"id": "oliverj",
+				"pick": "2.1"
+			},
+			{
+				"id": "penikj",
+				"pick": "3.4"
+			}
+		]
 	},
 	{
 		"_id": "ROT_BB05",
@@ -63,7 +114,24 @@
 		"_id": "STOBIPC2",
 		"franchise": "STO",
 		"season": "BIPC2",
-		"players": []
+		"players": [
+			{
+				"id": "storialej",
+				"pick": "Captain"
+			},
+			{
+				"id": "mandelsohnd",
+				"pick": "2.2"
+			},
+			{
+				"id": "demalial",
+				"pick": "1.4"
+			},
+			{
+				"id": "solanoj",
+				"pick": "3.3"
+			}
+		]
 	},
 	{
 		"_id": "WOO_BB05",

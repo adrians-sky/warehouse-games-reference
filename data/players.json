@@ -18,11 +18,29 @@
 		"throws": "L"
 	},
 	{
+		"_id": "cohenr",
+		"last_name": "Cohen",
+		"first_name": "Ryan",
+		"full_name": "Ryan Cohen",
+		"name": "Ryan Cohen",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
 		"_id": "dabl",
 		"last_name": "Dab",
 		"first_name": "Lou",
 		"full_name": "Lou Dab",
 		"name": "Lou Dab",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "daversal",
+		"last_name": "D'Aversa",
+		"first_name": "Lucas",
+		"full_name": "Lucas D'Aversa",
+		"name": "Lucas D'Aversa",
 		"bats": "R",
 		"throws": "R"
 	},
@@ -90,11 +108,47 @@
 		"throws": "R"
 	},
 	{
+		"_id": "mendelsohnd",
+		"last_name": "Mendelsohn",
+		"first_name": "David",
+		"full_name": "David Mendelsohn",
+		"name": "BBD",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
 		"_id": "obrienj",
 		"last_name": "O'Brien",
 		"first_name": "James",
 		"full_name": "James Michael O'Brien",
 		"name": "Jimmy O'Brien",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "obrienl",
+		"last_name": "O'Brien",
+		"first_name": "Luke",
+		"full_name": "Luke O'Brien",
+		"name": "Luke O'Brien",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "oliverj",
+		"last_name": "Oliver",
+		"first_name": "Jack",
+		"full_name": "Jack Oliver",
+		"name": "Jolly Olive",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "penikj",
+		"last_name": "Penik",
+		"first_name": "Justin",
+		"full_name": "Justin Penik",
+		"name": "Justin Penik",
 		"bats": "R",
 		"throws": "R"
 	},
@@ -122,6 +176,15 @@
 		"first_name": "Dan",
 		"full_name": "Dan Alan Rourke",
 		"name": "Dan Rourke",
+		"bats": "R",
+		"throws": "R"
+	},
+	{
+		"_id": "sciroccor",
+		"last_name": "Scirocco",
+		"first_name": "Rob",
+		"full_name": "Rob Scirocco",
+		"name": "Rob Scirocco",
 		"bats": "R",
 		"throws": "R"
 	},
