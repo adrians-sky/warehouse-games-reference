@@ -6,10 +6,22 @@
 		"players": [ "obrienj", "storialej" ]
 	},
 	{
+		"_id": "BRK_BIPC2",
+		"franchise": "BRK",
+		"season": "BIPC2",
+		"players": []
+	},
+	{
 		"_id": "CAR_BB05",
 		"franchise": "CAR",
 		"season": "BB05",
 		"players": [ "dabl", "solanoj" ]
+	},
+	{
+		"_id": "FRZ_BIPC2",
+		"franchise": "FRZ",
+		"season": "BIPC2",
+		"players": []
 	},
 	{
 		"_id": "HKL_BB05",
@@ -36,10 +48,22 @@
 		"players": [ "kollins", "macdonaldk" ]
 	},
 	{
+		"_id": "RIP_BIPC2",
+		"franchise": "RIP",
+		"season": "BIPC2",
+		"players": []
+	},
+	{
 		"_id": "ROT_BB05",
 		"franchise": "ROT",
 		"season": "BB05",
 		"players": [ "plouffet", "robinsond" ]
+	},
+	{
+		"_id": "STOBIPC2",
+		"franchise": "STO",
+		"season": "BIPC2",
+		"players": []
 	},
 	{
 		"_id": "WOO_BB05",
